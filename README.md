@@ -1,5 +1,5 @@
 
-Built with [mgp25's amazing Instagram Private API Wrapper for PHP](https://github.com/mgp25/Instagram-API/).
+Built with [mgp25's amazing Instagram Private API Wrapper for PHP](https://github.com/jandres4444/instagram/).
 # Note
 Please read this **entire** document as it has *very* important information about the script. If you create an issue that can be solved by reading this document, it will be ignored.
 
