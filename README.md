@@ -1,5 +1,3 @@
-# InstagramLive-PHP [![Discord](https://img.shields.io/discord/476526599232159780.svg?style=flat-square)](https://discord.gg/EpkKFt3) [![](https://data.jsdelivr.com/v1/package/gh/JRoy/InstagramLive-PHP/badge)](https://www.jsdelivr.com/package/gh/JRoy/InstagramLive-PHP)
-A PHP script that allows for you to go live on Instagram with any streaming program that supports RTMP!
 
 Built with [mgp25's amazing Instagram Private API Wrapper for PHP](https://github.com/mgp25/Instagram-API/).
 # Note
